@@ -1,0 +1,181 @@
+[33mcommit d66d0b8fbca71eb9504ab92c0a30b9f04d7f9da9[m[33m ([m[1;36mHEAD -> [m[1;32mhosu[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/hosu[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Fri Jan 28 21:09:45 2022 +0900
+
+    청기 백기, 셀프 넘버, 2xN 타일링 2
+
+[33mcommit 131a965e2aa98f9dd6cf57f66df853a257b3e7da[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 17:20:13 2022 +0900
+
+    함수 - 셀프 넘버
+
+[33mcommit 9fc8375841b18c5f782ea942ede1232d671e6e60[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:18:11 2022 +0900
+
+    baekjoon1~8
+
+[33mcommit b6a78ba3aaa0eebe5e887630f7efb6b8e8bf5876[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:14:59 2022 +0900
+
+    함수 - 정수 N개의 합
+
+[33mcommit 2ecc0b14476a2a0804e6953791083f55ce1f4da9[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:14:43 2022 +0900
+
+    1차원 배열 - 평균은 넘겠지
+
+[33mcommit 791735085e1272f4c9305a682b7a062ac682cc77[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:14:18 2022 +0900
+
+    1차원 배열 - OX
+
+[33mcommit c0b2a48b7c58774b8d4d6ddbde74f7667b16a28d[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:13:44 2022 +0900
+
+    1차원 배열 - 평균
+
+[33mcommit 4c00d45cdbdb12749a3fe3dbbe309ccd8017aed0[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:12:16 2022 +0900
+
+    Revert "1차원배열 - 평균"
+    
+    This reverts commit c760563d04f72356dc9a295a714382adc5a57a54.
+
+[33mcommit c760563d04f72356dc9a295a714382adc5a57a54[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:12:01 2022 +0900
+
+    1차원배열 - 평균
+
+[33mcommit adcd7f3b2f3de11a2b9caa9ea8f05603425b7f36[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:10:58 2022 +0900
+
+    1차원 배열 - 나머지
+
+[33mcommit a9eee6da662635e2907713eed3b3a707e59d5eb3[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:10:43 2022 +0900
+
+    1차원 배열 - 숫자의 개수
+
+[33mcommit d5aa3cde9be601be135d5b9df9b25f200d71d14b[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:10:22 2022 +0900
+
+    1차원 배열 - 최대값
+
+[33mcommit a14f2286700ae73f214cb5a40f8c4797ceaca8b2[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Fri Jan 28 15:10:02 2022 +0900
+
+    1차원 배열 - 최소, 최대
+
+[33mcommit f8f438e8f077e7109d3c0a8dbda3c0b8f1fc6c82[m[33m ([m[1;31morigin/hyunah[m[33m)[m
+Merge: 2f1bdab 70cb17b
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Thu Jan 27 01:14:44 2022 +0900
+
+    충돌해결?
+
+[33mcommit 2f1bdabc3631f033970f3099792fbe88205b0d1e[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Thu Jan 27 01:10:37 2022 +0900
+
+    충돌나라2
+
+[33mcommit 00918a47413878b77d269ffe186bab14c956d845[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Thu Jan 27 01:10:03 2022 +0900
+
+    충돌나라
+
+[33mcommit 70cb17b931a1ba030c0d9c31c15667186c913593[m
+Merge: 5f0777f da92450
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Thu Jan 27 00:45:47 2022 +0900
+
+    Merge branch 'main' into hosu
+    
+    # Conflicts:
+    #       ShareCode.txt
+
+[33mcommit 5f0777f051c177c72aafe4f6169b5a6a79aa87e1[m
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Thu Jan 27 00:11:33 2022 +0900
+
+    작업...
+
+[33mcommit da92450e049ae79e4be3cd2396f7c7b2cdeff363[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Thu Jan 27 00:10:39 2022 +0900
+
+    byhyunah
+
+[33mcommit 3fdfdd841998ff6fcaafe43ceea4755febec1a54[m
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Thu Jan 27 00:09:31 2022 +0900
+
+    이호준 작업해서 올림
+
+[33mcommit 13dcaf9b50423b8466ae2af98b932850ee7d101a[m
+Author: HelloEnavy <gusdk1793@gmail.com>
+Date:   Thu Jan 27 00:08:49 2022 +0900
+
+    현아가건드림
+
+[33mcommit 81a5ce0986b08c933429b320f5ed664b62f8cb62[m
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Wed Jan 26 23:28:34 2022 +0900
+
+    리드미 변경
+
+[33mcommit 2901bc5853ca02ab74346c403b8898743b01cf0c[m
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Wed Jan 26 23:13:33 2022 +0900
+
+    ReadMe 용 이미지 파일 커밋
+
+[33mcommit 50e46c7ae47b149e2e2f4cf6733b94d9e04e5418[m
+Author: Aeop <53634464+Aeopp@users.noreply.github.com>
+Date:   Wed Jan 26 23:11:57 2022 +0900
+
+    Update README.md
+
+[33mcommit e486aee0e7b1bf0044db3c750c7331b642a526ac[m
+Merge: 0e62506 ff5d668
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Wed Jan 26 01:44:29 2022 +0900
+
+    Merge branch 'main' of https://github.com/Aeopp/problem_solving_room
+
+[33mcommit 0e6250670028b3de36dbd29c38e329df5185f5bb[m
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Wed Jan 26 01:42:57 2022 +0900
+
+    충돌 테스트용 파일 커밋
+
+[33mcommit a5d70eb9180572ce7b35032d38fd5d9041797b90[m
+Author: DESKTOP-5F2M5SL\이호준 <irmxj777@gmail.com>
+Date:   Wed Jan 26 01:28:48 2022 +0900
+
+    Apply .gitignore 자바랑 C++만 일단 이그노어
+
+[33mcommit ff5d668363b2908c9bb9b0d893972292c83bbd99[m
+Author: Aeop <53634464+Aeopp@users.noreply.github.com>
+Date:   Wed Jan 26 01:26:40 2022 +0900
+
+    Update README.md
+
+[33mcommit e016e75e3d69a397d77c87ca3003a667ea9d5eeb[m
+Author: Aeop <53634464+Aeopp@users.noreply.github.com>
+Date:   Wed Jan 26 01:25:25 2022 +0900
+
+    Initial commit
