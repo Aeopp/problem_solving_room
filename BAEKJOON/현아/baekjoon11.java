@@ -9,5 +9,6 @@ public class baekjoon11 {
 
         System.out.println(number);
 
+        scanner.close();
     }
 }
