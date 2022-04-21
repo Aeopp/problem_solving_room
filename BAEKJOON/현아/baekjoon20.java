@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 
-public class baekjoon21 {
+public class baekjoon20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -17,8 +17,6 @@ public class baekjoon21 {
         for(int i=0 ; i<wordArr.length ; i++) {
             
             List<String> wordList = new ArrayList<String>();
-
-            
             
             boolean check1 = true;
 
@@ -44,12 +42,6 @@ public class baekjoon21 {
                     wordList.add(a);
                 }
 
-                System.out.println("a : " + a);
-
-                for(int p=0 ; p<indexArr.size() ; p++) {
-                    System.out.println("indexArr["+p+"]" +indexArr.get(p));
-                }
-
                 for(int j=0 ; j<indexArr.size()-1 ; j++) {
                     if(indexArr.get(j+1) - indexArr.get(j) > 1) {
                         check1 = false;
@@ -65,5 +57,5 @@ public class baekjoon21 {
         System.out.println(count);
         scanner.close();
     }
-    
 }
+
