@@ -15,7 +15,6 @@ public class baekjoon22 {
 
         }
 
-
         System.out.println(set);
 
         scanner.close();
