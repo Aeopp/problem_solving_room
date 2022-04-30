@@ -16,17 +16,14 @@ public class baekjoon25 {
         }   
 
         for(int i=0 ; i<test ; i++) {
-            String YY = "";
-            String XX = "";
+            String YY = N[i]%H[i] + "";
+            String XX = N[i]/H[i] + 1 + "";
 
-            if(N[i] <= H[i]) {
-                YY="1";
-                XX = N[i] + "";
-            } else {
-                YY = N[i]%H[i] + "";
-                XX = N[i]/H[i] + 1 + "";
+            if(Integer.parseInt(YY)==0) {
+                YY = H[i] + "";
+                XX = N[i]/H[i] + "";
             }
-
+    
             if(Integer.parseInt(XX)<10) {
                 XX = "0" + XX;
             }
