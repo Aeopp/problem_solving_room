@@ -58,4 +58,3 @@ public class baekjoon20 {
         scanner.close();
     }
 }
-
