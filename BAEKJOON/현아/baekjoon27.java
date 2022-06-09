@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import org.xml.sax.ext.EntityResolver2;
+
 public class baekjoon27 {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -12,11 +14,7 @@ public class baekjoon27 {
         //자루 개수
         int num = 0;
 
-        if(gram%3==0){
-            num = gram/3; //가장 많은 갯수
-        }
-
-        if(gram%5==0){
+        while(gram!=0)
 
 
 
@@ -24,14 +22,7 @@ public class baekjoon27 {
 
 
 
-            num = gram/5;
-        }
-
-
-
-
-
-
+        
         System.out.println(num);
 
         scanner.close();
